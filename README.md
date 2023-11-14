@@ -14,7 +14,7 @@
 </a>  
   
 ### Glad to see you here!  
-I'm a Front-end Developer & Mobile Engineer (React Native). I'm passionate about creating beautiful, user-friendly experiences for web and mobile environments.
+I'm a +5 Years of Experience as a Front-end Developer & Mobile Engineer (React Native). I'm passionate about creating beautiful, user-friendly experiences for web and mobile environments.
 
 In addition to my technical skills, I have a strong background in design. I'm experienced in Web Design/Graphic and have worked on Motion Design/Animation & Video Editing projects. This has given me a good understanding of UI/UX and Product Design principles, which I use to create engaging and effective user interfaces.  
   
