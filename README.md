@@ -22,7 +22,7 @@ In addition to my technical skills, I have a strong background in design. I'm ex
 
 ## Rapidfire  
 
-- 🔭 I’m currently working at **[Leadster.com.br](https://github.com/neurologicai)**  
+- 🔭 I’m currently available for projects**  
 
 - 📖 I’m currently learning **Product Design (UI/UX)** at **[Design Circuit](https://designcircuit.co/dc)** and **[DevOps](https://pt.wikipedia.org/wiki/DevOps)**  
   
